@@ -1,8 +1,14 @@
 # Project 3
 
 
+The Heroku live link is: https://vast-taiga-98028.herokuapp.com/
+
+
+
+
 ## **Table of Contents** 
 
+  - [Demo](#demo)
   - [Description](#description)
   - [Elements](#elements)
   - [Technologies](#technologies)
@@ -12,6 +18,9 @@
   - [Aids](#aids)
   - [Links](#links)
 
+## **DEMO** 
+
+[VIEW DEMO ON HEROKU](https://vast-taiga-98028.herokuapp.com/)
 
 ## **Description**
 For this project we needed to create a React based app. It needed to use a database, allow for login and authentication, and use new technologies.
@@ -117,7 +126,7 @@ Additionally the project was done with aid from our instructors
 
 ## **Links**
 
-The Heroku live link is: 
+The Heroku live link is: https://vast-taiga-98028.herokuapp.com/
 
 The Github link is: https://github.com/jessicaz47/Project3
                 
