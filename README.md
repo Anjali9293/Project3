@@ -1,11 +1,5 @@
 # Project 3
 
-
-The Heroku live link is: https://vast-taiga-98028.herokuapp.com/
-
-
-
-
 ## **Table of Contents** 
 
   - [Demo](#demo)
